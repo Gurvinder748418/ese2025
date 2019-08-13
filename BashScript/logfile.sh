@@ -1,5 +1,4 @@
 Gur="/home/gurvinder/logfile/subfile.sh"
-//
 while true; do
 today="$( date +"%s" )"
 number=0
