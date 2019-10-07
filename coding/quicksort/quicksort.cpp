@@ -8,7 +8,8 @@
 #include <string>
 using namespace std;
 void quickSort(int[],int,int);
-int partition(int[],int,int);/
+int partition(int[],int,int);
+
 void printArray(int a[], int size)
 {
     int i;
