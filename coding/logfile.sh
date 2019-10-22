@@ -1,4 +1,5 @@
 while true; do
+//
 today="$( date +"%s" )"
 number=0
 fname=$today.txt
