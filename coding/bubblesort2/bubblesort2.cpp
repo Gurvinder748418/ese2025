@@ -4,7 +4,7 @@
  *  Created on: Jun 26, 2019
  *      Author: gurvinder
 #include <iostream>
-#include <list>//
+#include <list>/
 #include <iterator>
 using namespace std;
 //function for printing the elements in a list
