@@ -5,5 +5,5 @@ if [ -e "$FILE" ]
 then
 echo "file found "
 else
-echo "File not found"
+echo "file not found"
 fi
