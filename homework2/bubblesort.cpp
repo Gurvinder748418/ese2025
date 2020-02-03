@@ -7,7 +7,7 @@ int main()
 {
     int number[7];
     int i,j;
-    cout << "please enter any 7 numbers : -";
+    cout << "Please enter any 7 numbers : -";
     for(i=0;i<=6;i++)
     {
 
