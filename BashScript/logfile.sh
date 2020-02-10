@@ -1,5 +1,5 @@
 Gur="/home/gurvinder/logfile/subfile.sh"
-while true; do####
+while true; do##
 today="$( date +"%s" )"
 number=0
 fname=$today.txt
