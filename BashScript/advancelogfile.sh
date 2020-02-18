@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+
 #check if a search Has been Specified
 numargs=$#
 if [ $numargs -lt 1 ]
