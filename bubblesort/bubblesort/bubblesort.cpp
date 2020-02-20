@@ -3,7 +3,7 @@
 using namespace std;
 
 int main()
-{####
+{###
     int number[7];
     int i,j;
     cout << "Please enter any 7 numbers : -";
