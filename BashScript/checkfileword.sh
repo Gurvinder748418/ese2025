@@ -3,7 +3,7 @@
 FILE=$1
 WORD=$2
 NOWORD=0
-####
+###
 if [ -e "$FILE" ]
 then
 echo "File exist"
