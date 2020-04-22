@@ -9,6 +9,7 @@ then
 
 echo "File is present"
 else
+
 echo "File is not present"
 fi
 #grep command used with wordcount 
