@@ -9,7 +9,7 @@ then
 
 echo "File is present"
 else
-echo "File is not exist"
+echo "File is not present"
 fi
 #grep command used with wordcount 
 WORD_CONT=$(grep -i -o $WORD $FILE | wc -l)
