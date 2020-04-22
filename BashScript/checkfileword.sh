@@ -6,6 +6,7 @@ NOWORD=0
 
 if [ -e "$FILE" ]
 then
+
 echo "File exist"
 else
 echo "File is not exist"
