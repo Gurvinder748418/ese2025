@@ -15,6 +15,7 @@ count=0 #counter variable
 LIMIT=10
 
 while [ "$count" -lt "$LIMIT" ]
+
 do
 datestr=`date +%s` #generate date string for file
 touch "log_$datestr.txt"
