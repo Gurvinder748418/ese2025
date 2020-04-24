@@ -24,7 +24,7 @@ touch "log_$datestr.txt"
 uname >> log_$datestr.txt
 date >> log_$datestr.txt
 grep -m `expr $count + 1` $sstring /home/gurvinder/Downloads/words.txt | tail -1 >> log_$datestr.txt
-sleep 10 #wait for 10 seconds
+sleep 10 ##wait for 10 seconds
 count=`expr $count + 1`
 done #while
 
